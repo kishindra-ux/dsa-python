@@ -16,4 +16,6 @@ Self-learning Data Structure and Algorithm & Coding by [Leet code](#Leetcode) & 
 
 7.) [392._Is_Subsequence](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/392._Is_Subsequence.md)
 
+8.) [338._Counting_Bits](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/338._Counting_Bits.md)
+
 ## Bandit:
