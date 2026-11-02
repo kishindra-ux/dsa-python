@@ -9,4 +9,6 @@ Self-learning Data Structure and Algorithm & Coding by [Leet code](#Leetcode) & 
 3.) [345._Reverse_Vowels_of_a_String](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/345._Reverse_Vowels_of_a_String.md)
 
 4.) [283._Move_Zeroes](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/283._Move_Zeroes.md)
+
+5.)[605._Can_Place_Flowers](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/605._Can_Place_Flowers.md)
 ## Bandit:
