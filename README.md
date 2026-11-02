@@ -10,5 +10,5 @@ Self-learning Data Structure and Algorithm & Coding by [Leet code](#Leetcode) & 
 
 4.) [283._Move_Zeroes](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/283._Move_Zeroes.md)
 
-5.)[605._Can_Place_Flowers](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/605._Can_Place_Flowers.md)
+5.) [605._Can_Place_Flowers](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/605._Can_Place_Flowers.md)
 ## Bandit:
