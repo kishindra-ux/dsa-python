@@ -14,4 +14,6 @@ Self-learning Data Structure and Algorithm & Coding by [Leet code](#Leetcode) & 
 
 6.) [1732._Find_the_Highest_Altitude](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/1732._Find_the_Highest_Altitude.md)
 
+7.) [392._Is_Subsequence](https://github.com/kishindra-ux/dsa-python/blob/main/leetcode/392._Is_Subsequence.md)
+
 ## Bandit:
